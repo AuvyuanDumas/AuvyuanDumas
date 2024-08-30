@@ -1,4 +1,4 @@
-<h1>Hi, I'm Auvyuan! Passionate Cybersecurity Professional</h1>
+<h1>Hi, I'm Auvyuan! Passionate IT Professional</h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
