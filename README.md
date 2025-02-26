@@ -4,6 +4,8 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / HoneyNet in Azure](https://github.com/AuvyuanDumas/Azure-SOC)
+ 
+  - [Configuring and Managing Active Directory on Windows Server](https://github.com/AuvyuanDumas/ActiveDirectory-Config)
 
 <h2> 🤳 Connect with me:</h2>
 
